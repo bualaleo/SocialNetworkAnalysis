@@ -1,0 +1,8 @@
+Nama :
+Buala Leonardo Hulu (1301160802)
+Hovely Wahyu Zaputra Simatupang (1301164167)
+
+Social Network Analysis Using Betweenness Centrality dan Community Detection Using Louvain Algorithm
+
+Tugas Besar 2
+Mata Kuliah Topik Khusus 2 SIDE
